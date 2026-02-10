@@ -40,8 +40,6 @@ target/
 out/
 
 # Eclipse
-.classpath
-.project
 .settings/
 bin/
 
